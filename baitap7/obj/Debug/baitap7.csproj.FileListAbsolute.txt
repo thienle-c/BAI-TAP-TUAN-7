@@ -1,0 +1,15 @@
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\baitap7.exe.config
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\baitap7.exe
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\baitap7.pdb
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\EntityFramework.dll
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\EntityFramework.xml
+C:\Users\thien\source\repos\baitap7\baitap7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.csproj.AssemblyReference.cache
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.Properties.Resources.resources
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.csproj.GenerateResource.cache
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.csproj.CoreCompileInputs.cache
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.csproj.Up2Date
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.exe
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.pdb
+C:\Users\thien\source\repos\baitap7\baitap7\obj\Debug\baitap7.FrmStudents.resources
